@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ceren Şahin</h1>
-<h3 align="center">Frontend Engineer • React • Next.js • TypeScript</h3>
+<h3 align="center">Software Engineer • Frontend • Backend • Blockchain</h3>
 
 <p align="center">
 Building scalable web & mobile experiences with modern technologies.
@@ -12,22 +12,22 @@ Building scalable web & mobile experiences with modern technologies.
 </p>
 
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=cerensahinnn" alt="cerensahinnn" />
-</a>
+  <a href="https://x.com/cerensahinh" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-%40cerensahinh-FEF9C3?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&width=780&lines=I+build+web+%26+mobile+products;React+%7C+Next.js+%7C+React+Native;TypeScript+first%2C+UX+obsessed" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Frontend+%7C+Backend;React+%7C+React+Native+%7C+Next.js+%7C+JavaScript+%7C+TypeScript;Blockchain;I+build+web+%26+mobile+products"
+    alt="Typing SVG"
+  />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cerensahinnn/cerensahinnn/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 
 ## 🚀 What I Do
 
@@ -72,9 +72,10 @@ Building scalable web & mobile experiences with modern technologies.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/cerensahinh" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<a href="https://x.com/cerensahinh" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="30" width="40"  />
 </a>
+
 
 <a href="https://www.linkedin.com/in/cerennsahin/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
