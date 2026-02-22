@@ -17,7 +17,17 @@ Building scalable web & mobile experiences with modern technologies.
 </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&width=780&lines=I+build+web+%26+mobile+products;React+%7C+Next.js+%7C+React+Native;TypeScript+first%2C+UX+obsessed" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cerensahinnn/cerensahinnn/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ## 🚀 What I Do
 
@@ -27,7 +37,9 @@ Building scalable web & mobile experiences with modern technologies.
 - ⚡ Turning complex ideas into **intuitive user experiences**
 - 🧠 Passionate about **performance, UX, and product thinking**
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%"/>
+</p>
 
 ## 🔭 Currently Working On
 
@@ -37,19 +49,25 @@ Building scalable web & mobile experiences with modern technologies.
 - 🚀 Improving **performance optimization & developer experience**
 - 💡 Exploring **product-driven development & startup ideas**
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%"/>
+</p>
 
 ## 💬 Ask Me About
 
 **React • React Native • Next.js • TypeScript • JavaScript • Frontend Architecture**
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%"/>
+</p>
 
 ## 📫 Contact
 
 **Email:** cesahinms@gmail.com  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%"/>
+</p>
 
 ## 🌐 Connect With Me
 
@@ -63,7 +81,9 @@ Building scalable web & mobile experiences with modern technologies.
 </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%"/>
+</p>
 
 # 🛠️ Languages & Tools
 
@@ -101,18 +121,4 @@ Building scalable web & mobile experiences with modern technologies.
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </p>
 
----
 
-# 📊 GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cerensahinnn&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cerensahinnn&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cerensahinnn" />
-</p>
